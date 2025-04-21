@@ -2,7 +2,7 @@ import random
 
 NUM_SIDE = 6
 
-def roll_dice():
+def orll_dice():
     die1 = random.randint(1, NUM_SIDE)
     die2 = random.randint(1, NUM_SIDE)
 
